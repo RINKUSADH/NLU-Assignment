@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### Step 4: Run the Classifier Script
 Execute the main Python file:
 ```bash
-python classifier_ultimate.py
+python classifier.py
 ```
 The script will automatically download datasets, train models, print the comparative report to the console, and save all visualizations as PNG files.
 ### Step 5: Interactive Test
